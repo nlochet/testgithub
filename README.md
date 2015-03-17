@@ -3,9 +3,4 @@ Pour tester github
 
 ## sous-titre
 
-tout est :
-- point a
-- poitn b 
-
-
-- N Lochet
+Galette saucisse
